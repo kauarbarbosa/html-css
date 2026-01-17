@@ -1,4 +1,4 @@
 # html-css
 curso html e css
 
-Estou aprendendo sobre regerenciamento de repositórios
+Estou aprendendo sobre gerenciamento de repositórios
