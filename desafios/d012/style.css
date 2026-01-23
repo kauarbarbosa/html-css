@@ -81,11 +81,13 @@ section.imagem > p {
 }
 
 section#img01 {
+    width: auto;
     background-image: url(imagens/background001.jpg);
     background-position: right center;
 }
 
 section#img02 {
+    width: auto;
     background-image: url(imagens/background002.jpg);
 }
 
